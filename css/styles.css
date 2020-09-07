@@ -171,3 +171,16 @@ body{
     box-shadow: 1px 13px 17px -5px rgba(150,150,150,1);
     border: 1px solid black;
 }
+
+.Welcome{
+    font-family: "learning_curve";
+    color: var(--Blanco);
+    font-size: 40px;
+    margin-top: 40px;
+    text-shadow: 0.1em 0.1em 0.2em #f37777;
+}
+.Tup{
+    font-family: "Gilroy Light";
+    margin-top: 153px;
+    font-size: 10px;
+}
