@@ -169,7 +169,7 @@ body{
     margin: 48px 53px 35px 10px;
     background-size: cover;
     box-shadow: 1px 13px 17px -5px rgba(150,150,150,1);
-    border: 1px solid black;
+    border: 1px solid #FFD2CC;
 }
 
 .Welcome{
@@ -177,10 +177,107 @@ body{
     color: var(--Blanco);
     font-size: 40px;
     margin-top: 40px;
-    text-shadow: 0.1em 0.1em 0.2em #f37777;
+    text-shadow: 0.1em 0.1em 0.2em #FFB3AE;
 }
 .Tup{
     font-family: "Gilroy Light";
     margin-top: 153px;
     font-size: 10px;
+}
+.have{
+    font-family: "Gilroy bold";
+    color: var(--Blanco);
+    margin-top: 55px;
+}
+.GET{
+    font-family: "Gilroy bold";
+    color: var(--Blanco);
+    text-align: center;
+}
+.cod{
+    font-family: "Gilroy Light";
+    text-align: center;
+    border: 1px dotted black;
+    width: 125px;
+    margin-left: 88px;
+}
+.Up{
+    font-family: "Gilroy bold";
+    margin: 220px 46px;
+    font-size: 28px;
+}
+
+.tup{
+    font-family: "Gilroy Light";
+    color: var(--Blanco);
+    margin: -207px 100px;
+    font-size: 10px;
+}
+
+
+
+/* container HOME */
+#container4{
+    width: 750px;
+    height: 500px;
+    margin:0 auto;
+    border: 5px solid black;
+    background-image: url(../images/home.png) ;
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 1px 13px 17px -5px rgba(150,150,150,1);
+    margin-top: 4%;
+}
+
+.header2{
+    padding: 20px ;
+    font-family: "Gilroy Light";
+    color: black;
+    position: absolute;
+    cursor: pointer;
+}
+.espacio3{
+    margin-right: 61px;
+    font-size: 12px;
+    font-family: "Gilroy Light";
+    color: black!important;
+    text-decoration: none;
+}
+.espacio4{
+    font-family: "Gilroy bold";
+    margin-right: 200px;
+    margin-left: 0px;
+    color: black !important;
+    text-decoration: none;
+}
+.parrafo{
+    font-family: "Gilroy Light";
+    font-size: 15px;
+    text-align: end;
+    margin-top: 320px;
+    margin-left: 34%;
+    position: absolute;
+}
+.Botones2{
+    text-align: center;
+    position: absolute;
+    margin-top: 28%;
+    margin-left: 37%;
+}
+.footer2{
+    position: absolute;  
+    margin-top: 32%;
+}
+.iconos2{
+    margin-left: 525px;
+}
+
+.boton-trans3{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    margin-top: -35px;
+    background-color: #ffffff61;
+    text-align: right;
+    margin-left: 103.2%;
 }
