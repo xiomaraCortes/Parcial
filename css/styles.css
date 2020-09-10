@@ -281,3 +281,48 @@ body{
     text-align: right;
     margin-left: 103.2%;
 }
+
+/* container blog */
+#container5{
+    width: 750px;
+    height: 250px;
+    margin:0 auto;
+    background-size: cover;
+    border-radius: 20px;
+    box-shadow: 1px 13px 17px -5px rgba(150,150,150,1);
+    border: 1px solid #FFD2CC;
+    margin-top: 4%;
+}
+
+.Imagen{
+    width: 650px;
+    margin-top: -78px;
+}
+
+.btn-blog{
+    font-family: "Gilroy Light";
+    color: var(--Blanco);
+    background: transparent;
+    position: absolute;
+    margin: 180px 0px 0px -400px;
+    padding: 7px;
+    width: 140px;
+    border: 1px solid white;
+    cursor: pointer;
+}
+
+.date{
+    font-family: "Gilroy bold";
+    margin: -345px 0px 0px 50px;
+    font-size: 25px;
+    color: var(--Blanco);
+}
+
+.Imagen2{
+    width: 680px;
+    margin: -82px 0px 0px 25%;
+}
+
+.iconos3{
+    margin: -73px 0px 0px 510px;
+}
